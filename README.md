@@ -10,6 +10,7 @@ guess-word-challenge
 │   ├── alphabets.py
 │   └── config.py
 ├── main.py
+├── .gitignore
 ├── requirements.txt
 ├── schema
 │   └── guess_results.py
